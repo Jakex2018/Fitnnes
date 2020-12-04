@@ -1,0 +1,185 @@
+#barra1 {
+    background: #44270c;
+}
+.colorletra{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.ajuste-letra1-1{
+    margin-left: 160px;
+}
+
+.ajuste-letra1{
+    margin-left: 25px;
+}
+.ajuste-letra2{
+    margin-right: 25px;
+}
+
+.ajuste-letra3{ 
+    margin-right: 280px;
+}
+#header2{ 
+   margin-top: 140px;
+    display: block;
+    background-size: 100%;
+}
+#barra-nav{
+    display: block;
+    margin-top: 100px;
+}
+#u2534 {
+    z-index: 361;
+    width: 150px;
+    position: absolute;
+    top: -100px;
+    left: 40%;
+    display: block;
+}
+#u2534 {
+    background-color: transparent;
+}
+.clip_frame {
+    /* overflow: hidden; */
+}
+/* body, div, dl, dt, dd, ul, ol, li, nav, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td, a {
+    margin: 0px;
+    padding: 0px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: transparent;
+    -webkit-transform-origin: left top;
+    -ms-transform-origin: left top;
+    -o-transform-origin: left top;
+    transform-origin: left top;
+    background-repeat: no-repeat;
+} */
+ div {
+    display: block;
+} 
+img.block {
+    display: block;
+}
+fieldset, img {
+    border: 0px;
+    border-style: solid;
+    -webkit-transform-origin: left top;
+    -ms-transform-origin: left top;
+    -o-transform-origin: left top;
+    transform-origin: left top;
+}
+img[Attributes Style] {
+    width: 450px;
+    height: 450px;
+}
+
+#body{
+align-content: center;
+background-attachment: fixed;
+background-size: 100%;
+height: 100%;
+background-repeat: no-repeat;
+}
+#img1{
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+}
+#img2{
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+  align-content: center;
+}
+
+.padre1{
+    display: flex;
+    margin-left: 5%;
+}
+
+.encabezado{
+    color: red;
+    width: 150px;
+    margin-right: 185px;
+    text-align: center;
+    margin-top: 0px;
+}
+.padre{
+    display: flex;
+    margin-right: 10%;
+}
+.columna{
+    color: black;
+    padding: 20px;
+    width: 60%;
+    margin right: 150px;
+    font-size: 13px;
+}
+
+.carta-menu{
+    background: #2e1701;
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+}
+/* 
+.galeria{
+    background: #2e1701;
+    color: #ffffff;
+    text-align: center;
+} */
+
+.ubicanos{
+    background: #2e1701;
+    color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+}
+#img3{
+    background-size: 100%;
+    width: 700px;
+  height: 500px;
+  align-content: center;
+  margin-left: 340px;
+
+}
+.cabezeraU{
+    text-align: center;
+    font-size: 35px;
+    color: yellow;
+    margin-left: 40%;
+}
+
+#direccion{
+    text-align: center;
+    font-size: 25px;
+    color: #ffffff;
+    margin-left: 25%;
+    width: 700px;
+}
+#horario{
+    text-align: center;
+    font-size: 25px;
+    color: #ffffff;
+    margin-left: 25%;
+    width: 700px;
+}
+#telefono{
+    text-align: center;
+    font-size: 25px;
+    color: #ffffff;
+    margin-left: 25%;
+    width: 700px;
+}
+
+
+#barra_n{
+    margin-top: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 4%;
+    width:100%;
+    font-size: 16px;
+}
